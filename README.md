@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi, I'm Corinne!
 
+- :mortar_board: UMass Amherst Informatics with a Concentration in Data Science: 2022 (BS)
+- :computer: Hack(H)er413 Webmaster: hackher413.com
+- :open_file_folder: Java, SQL, HTML, CSS, Python, Javascript, Svelte, R
 <!--
 **cegreene/cegreene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
